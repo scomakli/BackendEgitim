@@ -1,0 +1,11 @@
+C:\Users\scomakli\source\repos\MoneyBox Application\MoneyBox Application\bin\Debug\MoneyBox Application.exe.config
+C:\Users\scomakli\source\repos\MoneyBox Application\MoneyBox Application\bin\Debug\MoneyBox Application.exe
+C:\Users\scomakli\source\repos\MoneyBox Application\MoneyBox Application\bin\Debug\MoneyBox Application.pdb
+C:\Users\scomakli\source\repos\MoneyBox Application\MoneyBox Application\obj\Debug\MoneyBox Application.csproj.AssemblyReference.cache
+C:\Users\scomakli\source\repos\MoneyBox Application\MoneyBox Application\obj\Debug\MoneyBox Application.csproj.SuggestedBindingRedirects.cache
+C:\Users\scomakli\source\repos\MoneyBox Application\MoneyBox Application\obj\Debug\MoneyBox_Application.Form1.resources
+C:\Users\scomakli\source\repos\MoneyBox Application\MoneyBox Application\obj\Debug\MoneyBox_Application.Properties.Resources.resources
+C:\Users\scomakli\source\repos\MoneyBox Application\MoneyBox Application\obj\Debug\MoneyBox Application.csproj.GenerateResource.cache
+C:\Users\scomakli\source\repos\MoneyBox Application\MoneyBox Application\obj\Debug\MoneyBox Application.csproj.CoreCompileInputs.cache
+C:\Users\scomakli\source\repos\MoneyBox Application\MoneyBox Application\obj\Debug\MoneyBox Application.exe
+C:\Users\scomakli\source\repos\MoneyBox Application\MoneyBox Application\obj\Debug\MoneyBox Application.pdb
